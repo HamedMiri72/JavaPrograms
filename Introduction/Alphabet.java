@@ -12,5 +12,4 @@ public class Alphabet {
             System.out.println("it is not an alphabt");
         }
     }
-
 }
