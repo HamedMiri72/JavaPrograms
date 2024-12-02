@@ -7,7 +7,6 @@ public class DoubleToInt {
         int c = (int) a;
         int d = (int) b;
 
-
     }
     
 }
